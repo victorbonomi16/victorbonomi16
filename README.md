@@ -5,6 +5,8 @@ My name is **Victor Bonomi**, I am from **Brazil**, I am currently studying tech
 ### 🔥 Um pouco sobre mim 🔥
 
 - 📍 I live in Cocal do Sul - SC
+- 📒Studying technical education at SATC
+
 
 
 
