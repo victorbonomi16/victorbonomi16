@@ -1,6 +1,6 @@
 ### Bem Vindo 👋
 
-My name is Victor Bonomi, I am from Brazil, I am currently studying technical education at SATC University.
+My name is **Victor Bonomi**, I am from **Brazil**, I am currently studying technical education at **SATC** University.
 
 ### 🔥 Um pouco sobre mim 🔥
 
