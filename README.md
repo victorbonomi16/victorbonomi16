@@ -4,6 +4,9 @@ My name is **Victor Bonomi**, I am from **Brazil**, I am currently studying tech
 
 ### 🔥 Um pouco sobre mim 🔥
 
+- 📍 I live in Cocal do Sul - SC
+
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victorbonomi16&langs_count=8)](https://github.com/victorbonomi16/github-readme-stats)
 
