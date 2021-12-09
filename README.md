@@ -7,7 +7,7 @@ Me chamo **Victor Bonomi**, tenho 18 anos e terminei recentemente o curso técni
 - 📍 Atualmente moro em Cocal do Sul - SC
 - 📒Curso técnico em informática SATC concluído
 - 🔍Busco uma empresa para estagiar
-- 📧victorbonomi16@gmail.com
+- 📧[Email](victorbonomi16@gmail.com)
 - 🆖[Linkedin](https://www.linkedin.com/in/victor-bonomi-aba7a2222/)
 - 📷[Instagram](https://www.instagram.com/victor__bonomi/?hl=pt-br)
 
