@@ -1,12 +1,15 @@
 ### Bem Vindo 👋
 
-My name is **Victor Bonomi**, I am from **Brazil**, I am currently studying technical education at **SATC** University.
+Me chamo **Victor Bonomi**, tenho 18 anos e terminei recentemente o curso técnico de informática na universidade **SATC** .
 
 ### 🔥 Um pouco sobre mim 🔥
 
-- 📍 I live in Cocal do Sul - SC
-- 📒Studying technical education at SATC
-
+- 📍 Atualmente moro em Cocal do Sul - SC
+- 📒Curso técnico em informática SATC concluído
+- 🔍Busco uma empresa para estagiar
+- 📧victorbonomi16@gmail.com
+- 🆖[Linkedin](https://www.linkedin.com/in/victor-bonomi-aba7a2222/)
+- 📷[Instagram](https://www.instagram.com/victor__bonomi/?hl=pt-br)
 
 
 
